@@ -238,6 +238,6 @@ class SiteController extends Controller
         }
     }
 
-    public function
+    public function actionMessage()
 }
 
